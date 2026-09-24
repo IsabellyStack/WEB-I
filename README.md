@@ -4,26 +4,24 @@ Repositório destinado ao armazenamento dos códigos desenvolvidos durante as au
 
 Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JAVASCRIPT,</b> estruturação de páginas, estilização e outros conceitos fundamentais do desenvolvimento web 🚀
 
-# Desenvolvimento Web I - T2
-## Isabelly Gomes da Silva
----
+## 📚 Atividades
 
-### ATIVIDADES
-- Atividade 1 [[https://github.com/IsabellyStack/Atividade-1]] [[https://isabellystack.github.io/Atividade-1/]]
-- Atividade 2 [[https://github.com/IsabellyStack/Atividade-2]] [[https://isabellystack.github.io/Atividade-2/]]
-- Atividade 3 [[https://github.com/IsabellyStack/Atividade-3]] [[https://isabellystack.github.io/Atividade-3/]]
-- Atividade 4 [[https://github.com/IsabellyStack/Atividade-4]] [[https://isabellystack.github.io/Atividade-4/]]
-- Atividade 5 [[https://github.com/IsabellyStack/Atividade-5]] [[https://isabellystack.github.io/Atividade-5/]]
-- Atividade 6 [[https://github.com/IsabellyStack/Atividade-6]] [[https://isabellystack.github.io/Atividade-6/]]
-- Atividade 7 [[https://github.com/IsabellyStack/Atividade-7]] [[https://isabellystack.github.io/Atividade-7/]]
-- Atividade 8 [[https://github.com/IsabellyStack/Atividade-8]] [[https://isabellystack.github.io/Atividade-8/]]
-- Atividade 9 [[https://github.com/IsabellyStack/Atividade-9]] [[https://isabellystack.github.io/Atividade-9/]]
-- Atividade 10 [[https://github.com/IsabellyStack/Atividade-10]] [[https://isabellystack.github.io/Atividade-10/]]
-- Atividade 11 [[https://github.com/IsabellyStack/Atividade-11]] [[https://isabellystack.github.io/Atividade-11/]]
-- Atividade 12 [[https://github.com/IsabellyStack/Atividade-12]] [[https://isabellystack.github.io/Atividade-12/]]
-- Atividade 13 [[https://github.com/IsabellyStack/Atividade-13]] [[https://isabellystack.github.io/Atividade-13/]]
-- Atividade 14 [[https://github.com/IsabellyStack/Atividade-14]] [[https://isabellystack.github.io/Atividade-14/]]
-...
+| Atividade | Repositório (Código) | Demo / Deploy |
+| :--- | :--- | :--- |
+| **Atividade 1** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-1) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-1/) |
+| **Atividade 2** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-2) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-2/) |
+| **Atividade 3** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-3) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-3/) |
+| **Atividade 4** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-4) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-4/) |
+| **Atividade 5** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-5) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-5/) |
+| **Atividade 6** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-6) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-6/) |
+| **Atividade 7** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-7) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-7/) |
+| **Atividade 8** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-8) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-8/) |
+| **Atividade 9** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-9) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-9/) |
+| **Atividade 10** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-10) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-10/) |
+| **Atividade 11** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-11) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-11/) |
+| **Atividade 12** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-12) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-12/) |
+| **Atividade 13** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-13) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-13/) |
+| **Atividade 14** | [💻 Repositório](https://github.com/IsabellyStack/Atividade-14) | [🌐 Visualizar](https://isabellystack.github.io/Atividade-14/) |
 
-### Extras:
-- Atividade
+### 🚀 Extras
+- [ ] *Adicione seus projetos ou atividades extras aqui*
