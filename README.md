@@ -1,10 +1,18 @@
 # 🌐 Desenvolvimento Web I
 
-Códigos, exemplos e exercícios das aulas de HTML, CSS e JavaScript.
+> Espaço dedicado aos códigos, exemplos e exercícios práticos desenvolvidos durante as aulas.
 
-### 📁 Conteúdo
-- `exemplos/` - Códigos das aulas
-- `exercicios/` - Atividades práticas
+---
+
+### 🚀 Tecnologias Estudadas
+
+* 🟠 **HTML5** — Estruturação semântica e conteúdo
+* 🔵 **CSS3** — Estilização, layout e responsividade
+* 🟡 **JavaScript** — Lógica, eventos e manipulação do DOM
+
+---
+
+💡 *Projeto voltado para o aprendizado e evolução na programação web.*
 
 ## 📚 Atividades
 
