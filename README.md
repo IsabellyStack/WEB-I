@@ -2,7 +2,7 @@
 
 Repositório destinado ao armazenamento dos códigos desenvolvidos durante as aulas de Desenvolvimento Web I 💻
 
-Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JAVASCRIPT,</b> estruturação de páginas, estilização e outros conceitos fundamentais do desenvolvimento web 🚀
+Contém exercícios, exemplos e práticas voltadas ao estudo de **HTML, CSS, JAVASCRIPT**, estruturação de páginas, estilização e outros conceitos fundamentais do desenvolvimento web 🚀
 
 ## 📚 Atividades
 
@@ -36,3 +36,16 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de <b>HTML, CSS, JA
 | **Projeto 5** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-5) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-5/) |
 | **Projeto 6** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-6) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-6/) |
 | **Projeto 7** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-7) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-7/) |
+
+---
+
+## 🛠️ Extras
+
+| Extra | Repositório (Código) | Demo / Deploy |
+| :--- | :--- | :--- |
+| **Extra 1** | [💻 Repositório](https://github.com/IsabellyStack/hierarquia_hs) | [🌐 Visualizar](https://isabellystack.github.io/hierarquia_hs/) |
+| **Extra 2** | [💻 Repositório](https://github.com/IsabellyStack/Extra-2) | [🌐 Visualizar](https://isabellystack.github.io/Extra-2/) |
+| **Extra 3** | [💻 Repositório](https://github.com/IsabellyStack/Extra-3) | [🌐 Visualizar](https://isabellystack.github.io/Extra-3/) |
+| **Extra 4** | [💻 Repositório](https://github.com/IsabellyStack/Extra-4) | [🌐 Visualizar](https://isabellystack.github.io/Extra-4/) |
+| **Extra 5** | [💻 Repositório](https://github.com/IsabellyStack/Extra-5) | [🌐 Visualizar](https://isabellystack.github.io/Extra-5/) |
+| **Extra 6** | [💻 Repositório](https://github.com/IsabellyStack/Extra-6) | [🌐 Visualizar](https://isabellystack.github.io/Extra-6/) |
