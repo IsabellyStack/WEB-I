@@ -44,7 +44,7 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de **HTML, CSS, JAV
 | Extra | Repositório (Código) | Demo / Deploy |
 | :--- | :--- | :--- |
 | **Extra 1** | [💻 Repositório](https://github.com/IsabellyStack/hierarquia_hs) | [🌐 Visualizar](https://isabellystack.github.io/hierarquia_hs/) |
-| **Extra 2** | [💻 Repositório](https://github.com/IsabellyStack/Extra-2) | [🌐 Visualizar](https://isabellystack.github.io/Extra-2/) |
+| **Extra 2** | [💻 Repositório](https://github.com/IsabellyStack/Categoria_Jogos) | [🌐 Visualizar](https://isabellystack.github.io/Categoria_Jogos/) |
 | **Extra 3** | [💻 Repositório](https://github.com/IsabellyStack/Extra-3) | [🌐 Visualizar](https://isabellystack.github.io/Extra-3/) |
 | **Extra 4** | [💻 Repositório](https://github.com/IsabellyStack/Extra-4) | [🌐 Visualizar](https://isabellystack.github.io/Extra-4/) |
 | **Extra 5** | [💻 Repositório](https://github.com/IsabellyStack/Extra-5) | [🌐 Visualizar](https://isabellystack.github.io/Extra-5/) |
