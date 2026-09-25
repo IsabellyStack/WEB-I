@@ -36,16 +36,3 @@ Contém exercícios, exemplos e práticas voltadas ao estudo de **HTML, CSS, JAV
 | **Projeto 5** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-5) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-5/) |
 | **Projeto 6** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-6) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-6/) |
 | **Projeto 7** | [💻 Repositório](https://github.com/IsabellyStack/Projeto-7) | [🌐 Visualizar](https://isabellystack.github.io/Projeto-7/) |
-
----
-
-## 🛠️ Extras
-
-| Extra | Repositório (Código) | Demo / Deploy |
-| :--- | :--- | :--- |
-| **Extra 1** | [💻 Repositório](https://github.com/IsabellyStack/hierarquia_hs) | [🌐 Visualizar](https://isabellystack.github.io/hierarquia_hs/) |
-| **Extra 2** | [💻 Repositório](https://github.com/IsabellyStack/Categoria_Jogos) | [🌐 Visualizar](https://isabellystack.github.io/Categoria_Jogos/) |
-| **Extra 3** | [💻 Repositório](https://github.com/IsabellyStack/Imagens_Web) | [🌐 Visualizar](https://isabellystack.github.io/Imagens_Web/) |
-| **Extra 4** | [💻 Repositório](https://github.com/IsabellyStack/Formulario_Cadastro) | [🌐 Visualizar](https://isabellystack.github.io/Formulario_Cadastro/) |
-| **Extra 5** | [💻 Repositório](https://github.com/IsabellyStack/Formulario_Selecao) | [🌐 Visualizar](https://isabellystack.github.io/Formulario_Selecao/) |
-| **Extra 6** | [💻 Repositório](https://github.com/IsabellyStack/Extra-6) | [🌐 Visualizar](https://isabellystack.github.io/Extra-6/) |
