@@ -2,27 +2,133 @@
     <html>
     <head>
         <title>Semana de Tecnologia e Cultura</title>
+      <style>
+        body {
+          font-family: Arial, sans-serif;
+        }
+        h1 {
+          color: rgb(74, 38, 56);
+          font-size: 36px;
+          text-align: center;
+          letter-spacing: 2px;
+        }
+
+        h2, h3 {
+          color: #7A3E58;
+          font-size: 24px;
+        }
+
+        h3 {
+          font-weight: bold;
+        }
+
+        p {color: #6B6470;
+           font-size: 16px;
+           line-height: 1.6;
+           
+        }
+        header {
+          background-color: #EFCFE3;
+          padding: 30px;
+          margin-bottom: 20px;
+        }
+
+        nav {
+          background-color: #EB9AB2;
+          padding: 15px;
+          
+        }
+
+        section {
+          background-color: white;
+          padding: 20px;
+          margin: 20px;
+          border: 2px solid #EB9AB2;
+        }
+
+        img {
+          width: 400px;
+          height: 250px;
+          border: 3px solid #EB9AB2
+        }
+
+        table {
+          width: 100%;
+          border-collapse: collapse;
+        }
+
+        th, td {
+          border: 1px solid #E27396;
+          padding: 10px;
+          text-align: left;
+        }
+
+        div {
+          width: 300px;
+          height: 180px;
+          padding: 20px;
+          margin-top: 15px;
+          border: 3px solid #EB9AB2;
+        }
+
+        footer {
+          background-color: #EFCFE3;
+          padding: 20px;
+          text-align: center;
+        }
+
+        .caixa1 {
+          background-color: #D6EAF8;
+          border: solid #254A7A;
+        }
+
+        .caixa2 {
+          background-color: #D5F5E3;
+          border: solid #2E8B57;
+          border-radius: 15px;
+        }
+
+        .caixa3 {
+          background-color: #FADBD8;
+          border: solid #8E44AD;
+          border-radius: 30px;
+          border-top-left-radius: 0px;
+        }
+
+        .caixa1, .caixa2, .caixa3 {
+          height: auto;
+        }
+
+        #sobre {
+          text-align: justify;
+        }
+
+        nav a:hover {color: #ECF2D8; }
+        
+      </style>
     </head>
     <body>
-        <h1>Semana de Tecnologia e Cultura</h1>
-        <p>A Semana de Tecnologia e Cultura do IFCE Campus Maranguape será um evento dedicado ao aprendizado, à criatividade e à troca de conhecimentos entre os estudantes. A programação contará com diversas atividades, como palestras, oficinas, apresentações culturais e exposições, promovendo a integração entre tecnologia, educação e cultura. A página do evento apresentará a programação, as atividades disponíveis e as principais informações para que todos possam participar e aproveitar essa experiência.</p>
-        
+        <header>
+          <h1>Semana de Tecnologia e Cultura</h1>
+          <p>A Semana de Tecnologia e Cultura do IFCE Campus Maranguape será um evento dedicado ao aprendizado, à criatividade e à troca de conhecimentos entre os estudantes. A programação contará com diversas atividades, como palestras, oficinas, apresentações culturais e exposições, promovendo a integração entre tecnologia, educação e cultura. A página do evento apresentará a programação, as atividades disponíveis e as principais informações para que todos possam participar e aproveitar essa experiência.</p>
+        </header>
         <nav>
             <ul>
-                <li><a href="">Sobre</a></li>
-                <li><a href="">Neon Night</a></li>
-                <li><a href="">Museu do Futuro</a></li>
-                <li><a href="">Festival de Jogos</a></li>
-                <li><a href="">Escape Room digital</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#programacao">Programação</a></li>
+                <li><a href="#atividades">Atividades</a></li>
+                <li><a href="#inscricoes">Inscrições</a></li>
             </ul>
         </nav>
 
-        <section>
+        <section id="sobre">
+          <h2>Sobre o Evento</h2>
             <p>A Semana de Tecnologia e Cultura do IFCE Campus Maranguape tem como objetivo incentivar o aprendizado e a criatividade dos estudantes por meio de palestras, oficinas e exposições tecnológicas. O evento busca apresentar novas ideias e conhecimentos, despertando o interesse pela tecnologia e pela inovação.</p>
             <p>Além disso, o evento pretende valorizar a cultura e promover a integração entre os alunos e professores, por meio de apresentações artísticas e atividades interativas. A iniciativa também busca estimular o trabalho em equipe, a troca de experiências e a participação dos estudantes na comunidade escolar.</p>
+            <img src="https://lets.events/blog/wp-content/uploads/2023/07/Tendencias-em-tecnologia-de-eventos.jpg" alt="Homem utilizando um óculos de VR">
         </section>
 
-        <section>
+        <section id="programacao">
             <h2>Programação</h2>
             <table>
                 <thead>
@@ -61,34 +167,28 @@
             </table>
         </section>
         
-        <section>
+        <section id="atividades">
             <h2>Atividades</h2>
-            <div>
-                <h2>Neon Night</h2>
+            <div class="caixa1">
+                <h3>Neon Night</h3>
                 <p>O Neon Night é um evento cheio de cor, criatividade e diversão, com atividades artísticas. Uma experiência que combina arte e cultura em um ambiente vibrante, iluminado por cores fluorescentes.</p>
-                <p>Para mais informações: <a href=""></a></p>
+                <p>Para mais informações: <a href=" https://br.pinterest.com/search/pins/?q=projeto%20escolar%20luz%20negra⁠">Projetos de Luz Negra</a></p>
             </div>
 
-            <div>
-                <h2>Museu do Futuro</h2>
+            <div class="caixa2">
+                <h3>Museu do Futuro</h3>
                 <p>Criar uma exposição mostrando como imaginamos o futuro da tecnologia: inteligência artificial, robôs, cidades inteligentes e profissões que ainda podem surgir.</p>
-                <p>Para mais informações: <a href=""></a></p>
+                <p>Para mais informações: <a href="https://labs.google/">Google AI Experiments</a></p>
             </div>
 
-            <div>
-                <h2>Festival de Jogos</h2>
+            <div class="caixa3">
+                <h3>Festival de Jogos</h3>
                 <p>Uma área com jogos digitais, jogos educativos e desafios de raciocínio.</p>
-                <p>Para mais informações: <a href=""></a></p>
-            </div>
-
-            <div>
-                <h2>Escape Room Digital</h2>
-                <p>Criar uma sala de enigmas em que os participantes precisam desvendar uma história usando pistas, lógica e conhecimentos de tecnologia.</p>
-                <p>Para mais informações: <a href=""></a></p>
+                <p>Para mais informações: <a href="https://poki.com/br?campaign=21617376436&adgroup=173173705344&extensionid=&targetid=kwd-395440198971&location=9101529&matchtype=e&network=g&device=m&devicemodel=&creative=710370086538&keyword=clicks%20jogos&placement=&target=&gad_source=1&gad_campaignid=21617376436&gclid=Cj0KCQjw6ObWBhDDARIsAFdfcUj1TDBIWy8JpgS0CSjOKZQF_SOqyDB-XxyedlOOT6mepZjFyz5CG9saAvA4EALw_wcB⁠">Poki Jogos</a></p>
             </div>
         </section>
 
-        <section>
+        <section id="inscricoes">
             <h2>Inscrições</h2>
             <p>Participe da Semana de Tecnologia e Cultura! Confira as informações sobre inscrições e garanta sua participação nas atividades.</p>
             <p>Para mais detalhes, <a href="https://portal.ifce.edu.br/">acesse o site oficial do IFCE.</a></p>
@@ -100,4 +200,4 @@
             <p>&copy; 2026 - Todos os direitos reservados</p>
         </footer>
     </body>
-</html>
+    </html>
